@@ -1,0 +1,18 @@
+# Lab Architecture Overview
+
+# Purpose
+The goal of this lab is to build a secure and controlled cybersecurity environment for learning and experimentation.
+
+# Design Principles
+- Security first
+- Network isolation
+- Minimal attack surface
+- Progressive complexity
+
+# Components
+- VPN Gateway: Raspberry Pi (OpenVPN / WireGuard)
+- Workstation: Debian 12 (Dell laptop)
+- Virtual Machines: Isolated lab environments
+
+# Network Flow (High-Level)
+All access to the lab is performed through a secure VPN gateway.
