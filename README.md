@@ -1,6 +1,6 @@
 <img width="1432" height="1170" alt="ProjectVPN" src="https://github.com/user-attachments/assets/604a540e-5dd4-462d-820d-785239471889" />
-# private-Cybersecurity-Lab
- 🛡️ Private Cybersecurity Lab
+
+🛡️ Private Cybersecurity Lab 🛡️
 
 This repository documents the progressive construction of a private cybersecurity lab designed for hands-on practice in secure networking, SOC analysis, and threat detection.
 
@@ -11,10 +11,14 @@ This repository documents the progressive construction of a private cybersecurit
 - Practice attack detection and analysis
 
 ##  High-Level Architecture
-- Raspberry Pi 4: VPN Gateway (OpenVPN / WireGuard)
+- Raspberry Pi 4: VPN Gateway (OpenVPN/WireGuard)
 - Dell Laptop: Debian 12 Workstation
-- Virtualization: VirtualBox
-- Lab VMs: Kali Linux, Wazuh SIEM
+  Installation Of the Bookworm Debian 12: 
+- Virtualization "VirtualBox"
+  Installation of VirtualBox:
+- Lab VMs:
+  Installation of Kali Linux
+ (Wazuh, Suricata, Wireshark, SIEM)
 
 ##  Status
 Project in active development. Documentation is updated as the lab evolves.
