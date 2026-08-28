@@ -17,7 +17,7 @@ This repository documents the progressive construction of a private cybersecurit
 - Virtualization "VirtualBox"
   Installation of VirtualBox:
 - Lab VMs:
-  Installation of Kali Linux
+  Installation of Kali Purple
  (Wazuh, Suricata, Wireshark, SIEM)
 
 ##  Status
