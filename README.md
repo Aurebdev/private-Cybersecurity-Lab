@@ -5,13 +5,11 @@
 This repository documents the progressive construction of a private cybersecurity lab designed for hands-on practice in secure networking, SOC analysis, and threat detection.
 
 ##  Objectives
-- Build a secure VPN gateway using a Raspberry Pi
 - Connect a Debian 12 workstation
 - Deploy a virtualized lab environment
 - Practice attack detection and analysis
 
 ##  High-Level Architecture
-- Raspberry Pi 4: VPN Gateway (OpenVPN/WireGuard)
 - Dell Laptop: Debian 12 Workstation
   Installation Of the Bookworm Debian 12: 
 - Virtualization "VirtualBox"
