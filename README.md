@@ -1,4 +1,5 @@
-<img width="1432" height="1170" alt="ProjectVPN" src="https://github.com/user-attachments/assets/604a540e-5dd4-462d-820d-785239471889" />
+<img width="1636" height="1116" alt="g5uQPliz" src="https://github.com/user-attachments/assets/8c76faed-77c3-467e-b894-03dfcf94b7a4" />
+
 
 🛡️ Private Cybersecurity Lab 🛡️
 
