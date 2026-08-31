@@ -1,4 +1,5 @@
-<img width="1636" height="1116" alt="g5uQPliz" src="https://github.com/user-attachments/assets/8c76faed-77c3-467e-b894-03dfcf94b7a4" />
+<img width="1084" height="797" alt="labKalipurple" src="https://github.com/user-attachments/assets/4f20cc1b-4be1-4337-9d5a-7d19fbb415ee" />
+
 
 
 🛡️ Private Cybersecurity Lab 🛡️
