@@ -11,13 +11,10 @@ This repository documents the progressive construction of a private cybersecurit
 - Deploy a virtualized lab environment
 - Practice attack detection and analysis
 
-##  High-Level Architecture
-- Dell Laptop: Debian 12 Workstation
-  Installation Of the Bookworm Debian 12: 
-- Virtualization "VirtualBox"
-  Installation of VirtualBox:
-- Lab VMs:
-  Installation of Kali Purple
+## Architecture
+- Dell Laptop: Installation of Debian 12 Workstation
+- Creation of a Virtual Machine: Installation of VirtualBox
+- Lab VMs: Installation of Kali Purple
  (Wazuh, Suricata, Wireshark, SIEM)
 
 ##  Status
